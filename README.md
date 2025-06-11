@@ -12,9 +12,7 @@
 
 <br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDearYuto&count_bg=%23A5B4E8&title_bg=%236E799C&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FDearYuto?color=gray&label=hits&size=small)](https://myhits.vercel.app)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:879FEB,100:BEB5E8&height=150&section=footer&fontSize=24&animation=fadeIn&fontColor=ffffff)
